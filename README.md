@@ -9,7 +9,7 @@
 - Name: Jung Hoon Park
 - School: Troy University
 - Bachelor's Degree in Computer Science 
-- b115.junghoon@gmail.com <span><img src="https://img.shields.io/badge/Gmail-#EA4335?style=plastic&logo=Gmail&logoColor=white"/></span>
+- <a href="mailto:b.115junghoon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white"/></a>b115.junghoon@gmail.com 
 
 
 <!--
