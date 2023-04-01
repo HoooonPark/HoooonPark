@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ Personal Info
 - Name: Jung Hoon Park
-- School: Troy University![Troy_Trojans_logo](https://user-images.githubusercontent.com/116849528/229267351-93cd258e-bc63-47db-8277-672da86eaf75.svg)
+- School: Troy University![Troy_Trojans_logo](https://user-images.githubusercontent.com/116849528/229267920-fd1fc3de-6f00-4b98-89f4-17dc401eecb8.svg)
 - Bachelor's Degree in Computer Science 
 - b115.junghoon@gmail.com  <a><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white"/></a>   
 
