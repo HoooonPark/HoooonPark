@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ Personal Info
 - Name: Jung Hoon Park
-- School: Troy University
+- School: Troy University![Troy_Trojans_logo](https://user-images.githubusercontent.com/116849528/229267351-93cd258e-bc63-47db-8277-672da86eaf75.svg)
 - Bachelor's Degree in Computer Science 
 - b115.junghoon@gmail.com  <a><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white"/></a>   
 
@@ -24,17 +24,5 @@
 - Version Control : <span><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span><br/>
 
-<!--
-**HoooonPark/HoooonPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📝 Portfolio Website <a href="https://yalacha.com"></a>
+[![image](https://user-images.githubusercontent.com/116849528/229267479-03c5345c-1816-47ac-a133-5fe77547fa9a.PNG)](https://yalacha.com)
